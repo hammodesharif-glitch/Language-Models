@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Course data from the professor (large, not redistributed)
+talia_donnees/
+docs/
